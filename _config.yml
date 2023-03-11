@@ -19,9 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: mgr-cse.github.io
-author:
-  name: mgr-cse
-  email: ""
+email: ~
 description: >- # this means to ignore newlines until "baseurl:"
   Nothing much, I am just learing to build a static website on
   Github Pages.
@@ -31,10 +29,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mgr-cse
 
 # Build settings
+markdown: kramdown
 theme: minima
+plugins:
+  - jekyll-feed
 
-minima:
-  skin: dark
 
 header_pages:
   - about.markdown
