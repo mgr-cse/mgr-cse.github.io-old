@@ -1,0 +1,13 @@
+// override style
+
+.social-media-list {
+  display: list-item;
+  text-decoration: none;
+  li {
+    text-align: left;
+    float: left;
+  }
+  .username {
+    text-decoration: underline;
+  }
+}
