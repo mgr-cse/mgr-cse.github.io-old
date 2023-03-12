@@ -1,3 +1,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "themes/after-dark"]
+	path = themes/after-dark
+	url = https://codeberg.org/vhs/after-dark
