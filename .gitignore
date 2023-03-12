@@ -4,3 +4,6 @@ _site/
 .jekyll-metadata
 vendor
 upstream
+.hugo_build.lock
+themes/after-dark/
+themes/ananke/
