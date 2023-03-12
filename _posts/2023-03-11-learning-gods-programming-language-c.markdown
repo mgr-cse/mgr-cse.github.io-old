@@ -14,4 +14,3 @@ int main() {
 }
 ```
 
-<iframe src="https://www.youtube.com/embed/ZzaPdXTrSb8" title="C++ Tutorial for Beginners - Learn C++ in 1 Hour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
